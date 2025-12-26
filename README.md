@@ -1,4 +1,4 @@
-Скачать собранный exe*: https://disk.yandex.ru/d/HNBBpauWB9IobQ 
+[Скачать собранный exe](https://disk.yandex.ru/d/HNBBpauWB9IobQ)*  
   _Версия: 2.22 от 27.12.2025_
 
 <img width="634" height="714" alt="image" src="https://github.com/user-attachments/assets/8b09f4fe-2a99-4169-8fd9-3024c044412d" />
